@@ -1,4 +1,4 @@
-"use stricts";
+"use strict";
 
 // Bài 1: Nhập vào hai số a và b, và kiểm tra xem a có chia hết cho b hay không
 
